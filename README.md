@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <!-- Картинка-баннер (замени ссылку на свою картинку) -->
-<!-- <img src="https://твой-путь-к-картинке.jpg" width="100%"> -->
+<img src="https://i.pinimg.com/736x/d6/81/27/d6812735ac2c9bc3b9840285dbaaaa7a.jpg" width="100%">
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=1135821968545512865" height="419" width="345" frameborder="0" scrolling="no" ></iframe>
+<!-- <iframe src="https://assets.pinterest.com/ext/embed.html?id=1135821968545512865" height="419" width="345" frameborder="0" scrolling="no" ></iframe> -->
 
 <h1 align="center">Привет, я Эльдар! 👋</h1>
 
