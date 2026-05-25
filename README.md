@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 <!-- Картинка-баннер (замени ссылку на свою картинку) -->
-<img src="https://i.pinimg.com/736x/d6/81/27/d6812735ac2c9bc3b9840285dbaaaa7a.jpg" width="100%">
+<!-- <img src="https://i.pinimg.com/736x/d6/81/27/d6812735ac2c9bc3b9840285dbaaaa7a.jpg" width="100%"> -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=250&section=header&text=Hello%20World,%20I'm%20Eldar!&fontSize=50&fontAlignY=35&desc=Backend%20%26%20System%20Developer&descAlignY=55&descSize=20" alt="Header" />
+</div>
 
 <!-- <iframe src="https://assets.pinterest.com/ext/embed.html?id=1135821968545512865" height="419" width="345" frameborder="0" scrolling="no" ></iframe> -->
 
