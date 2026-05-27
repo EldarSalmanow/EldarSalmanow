@@ -22,6 +22,36 @@ I'm a Backend and Systems Developer with 4 years of experience, specializing in 
 
 🌱 *Currently exploring:* `userver`, `Go`, `Rust` and distributed systems.
 
+## 🗂 Repository Navigator
+
+### 🚀 Featured Systems & Backend Projects
+My core repositories focused on low-level programming, databases, and high-load backend architecture.
+
+| Project | Description | Tech Stack | Status / Role |
+|---------|-------------|------------|---------------|
+| 💾 [**QuasarDB**](https://github.com/EldarSalmanow/QuasarDB) | Custom relational DBMS with network interaction and CI/CD pipelines. | `C++` | 👥 Team Lead |
+| ⚙️ [**GSLanguage**](https://github.com/EldarSalmanow/GSLanguage) | A new compiled programming language. Compiler frontend with LLVM integration. | `C++ 20`, `LLVM` | 💡 Pet-project |
+| 💻 [**GSVirtualMachine**](https://github.com/EldarSalmanow/GSVirtualMachine) | Stack-based VM for executing `GSLanguage` bytecode with custom memory management. | `C++` | 💡 Pet-project |
+| 📚 [**gstd**](https://github.com/EldarSalmanow/gstd) | Cross-platform library for advanced data structures and algorithms with flexible memory models. | `C++` | 💡 Pet-project |
+| 📈 [**FIIT**](https://github.com/EldarSalmanow/FIIT) | Currency market monitoring web service. Architecture, REST API, and containerization. | `Python`, `Django`, `Docker`| 👥 Lead Backend |
+
+### 🎓 Educational & Coursework (MAI)
+Algorithmic challenges, university labs, and experimental coding.
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🧬 [**DynamicVariables**](https://github.com/EldarSalmanow/DynamicVariables) | Experimental implementation of dynamic variables and typing. | `C++` |
+| 📝 **[Repo Name 2]** | *Add your coursework or university labs here...* | `C` / `C++` |
+
+### 🤖 Bots & Games (Just for fun)
+Small projects built to test new technologies, automate tasks, or just have fun.
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎮 [**GameOnPython**](https://github.com/EldarSalmanow/GameOnPython) | 2D Game project. | `Python` |
+| 🕹 [**JavaGameGit**](https://github.com/EldarSalmanow/JavaGameGit) | Test game built to practice Java & OOP. | `Java` |
+| 💬 [**TestBotOnTG**](https://github.com/EldarSalmanow/TestBotOnTG) | Telegram bot for experimental purposes. | `Python` |
+
 ## 🚀 Featured Projects
 - **QuasarDB** — A custom relational DBMS written in C++. Led the team, configured CI/CD, and designed the core architecture.
 - **GSLanguage & GSVirtualMachine** — Compiler frontend and stack-based virtual machine integrated with an LLVM backend.
