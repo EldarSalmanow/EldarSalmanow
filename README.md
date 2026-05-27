@@ -10,11 +10,11 @@ Style goals: modern, calm/soft, recruiting-focused.
 
 ---
 
-# Hi, I'm Eldar Salmanov 👋
+# Hi, I'm Eldar Salmanow 👋
 
 I'm a Backend and Systems Developer with 4 years of experience, specializing in C++ and Python. I have a strong passion for high-load systems, database architecture, and compiler development.
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 - **Languages:** C++ 17/20, Python, C, SQL
 - **Backend:** Django (DRF), PostgreSQL, Redis, Celery, REST API
 - **Systems & Low-level:** LLVM, Multithreading, DBMS & Compiler dev
@@ -22,15 +22,15 @@ I'm a Backend and Systems Developer with 4 years of experience, specializing in 
 
 🌱 *Currently exploring:* `userver`, `Go`, `Rust` and distributed systems.
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 - **QuasarDB** — A custom relational DBMS written in C++. Led the team, configured CI/CD, and designed the core architecture.
 - **GSLanguage & GSVirtualMachine** — Compiler frontend and stack-based virtual machine integrated with an LLVM backend.
 - **gstd** — A cross-platform C++ library implementing basic and advanced data structures with a flexible memory model.
 - **FIIT** — Backend architecture for a currency market monitoring web service (Django, Docker, REST API).
 
-### 🎓 Education
+## 🎓 Education
 - **Moscow Aviation Institute (MAI)** — BSc in Fundamental Informatics and Information Technology (2024 - Present).
 
-### 📫 Let's connect!
+## 📫 Let's connect!
 - **Telegram:** [@EldArS20](https://t.me/EldArS20)
 - **Email:** eldar.salm@gmail.com
